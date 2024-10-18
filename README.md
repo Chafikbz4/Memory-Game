@@ -1,4 +1,4 @@
-# memorygame
+# Memory Game With Vuejs
 
 ## Project setup
 ```
